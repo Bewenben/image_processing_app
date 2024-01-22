@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822292823836",
+    "project_id": "image-processing-app-fea7b",
+    "storage_bucket": "image-processing-app-fea7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822292823836:android:c65129565b79528c1ac4d9",
+        "android_client_info": {
+          "package_name": "com.example.image_processing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV5GunW0zsovRF0UIg4U1Ntb4MxmVCldk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
